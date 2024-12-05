@@ -1,6 +1,0 @@
-this is third file
-this is modified line
-
-
-
-this is the current last line
