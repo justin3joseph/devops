@@ -6,7 +6,8 @@ function_1()
   }
 function_2()
   {
-   // feature 1 added
+   // feature 1 added by devA
+   devA added the new feature
   }
 
 }
